@@ -5,4 +5,5 @@ permalink: /about/
 weight: 5
 ---
 
-Brought to you by Eitan & Leslie Suez.
+Brought to you by the Suez family.
+
