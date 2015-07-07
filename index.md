@@ -12,7 +12,7 @@ I'm so excited for you to be a part of my coming of age. Camp Young Judea has be
 
 Please don't hesitate to contact us by email or phone with any questions or requests.
 
-Remember to come back to the site as information may change as we get closer to Arik's event date,
+Remember to come back to this site as information may change as we get closer to Arik's event date,
 and updates will be communicated primarily through this web site.
 
 
