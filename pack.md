@@ -2,7 +2,7 @@
 layout: page
 title: What to Pack
 permalink: /pack/
-weight: 3
+weight: 4
 ---
 
 First and foremost we want all of our guests to be COMFORTABLE!

@@ -2,19 +2,17 @@
 layout: default
 ---
 
-Welcome family and friends to Arik's CYJ Bar Mitzvah website!
+<img style="float: right; margin: 0 0 1em 1em; " src="arik_cropped.jpeg" />
 
-You are invited to spend the weekend with us at CYJ from Friday, October 9 to Sunday, October 11.
-If you'd like to contribute towards your lodging, you are welcome to donate via paypal.
+Hello and welcome to my Bar Mitzvah website.
 
-If multi-family cabins and lodges aren't quite your thing, we hope you will check out our
-recommendations to nearby B&B's.
-If you choose a B&B, reserve your space as soon as possible.
+I'm so excited for you to be a part of my coming of age. Camp Young Judea has been a very happy and fun place for me. Camp has been a large part of my life for six amazing summers. I hope that it will seem just as magical and beautiful to you when you visit. I started my Bar Mitzvah practice over a year ago and I have been working hard to make it just right for this occasion. All of that hard work for one special weekend of my life in one special place in my life. I hope to see you at CYJ on October 9 2015.
+
+----
 
 Please don't hesitate to contact us by email or phone with any questions or requests.
 
 Remember to come back to the site as information may change as we get closer to Arik's event date,
 and updates will be communicated primarily through this web site.
 
-We look forward to spending a weekend together celebrating Arik becoming a Bar Mitzvah!
 
