@@ -2,7 +2,7 @@
 layout: page
 title: Lodging
 permalink: /lodging/
-weight: 2
+weight: 3
 ---
 
 Camp Young Judea has lodging facilities in the form of cabins and lodge rooms.

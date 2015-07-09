@@ -2,7 +2,7 @@
 layout: page
 title: Camp Rules
 permalink: /camprules/
-weight: 5
+weight: 6
 ---
 
 We want everyone to have a safe and fun weekend. For everyone’s safety,

@@ -2,7 +2,7 @@
 layout: page
 title: Schedule
 permalink: /schedule/
-weight: 3
+weight: 4
 ---
 
 Please refer to this [camp map](/camp_map.pdf) for the locations of the facilities cited on the schedule below.
