@@ -28,7 +28,7 @@ Also, bring athletic clothes (both children and grown-ups) as there will be plen
 
 ## Saturday night party
 
-Festive COMFORTABLE attire. <b>We request that Arik's friends to bring Hawaiian-themed attire.</b>
+Festive COMFORTABLE attire. <b>We request that Arik's friends bring Hawaiian-themed attire.</b>
 
 ----
 

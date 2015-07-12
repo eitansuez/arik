@@ -23,7 +23,7 @@ The following is a preliminary schedule;  please check back closer to the event 
 * Breakfast @ Chadar Ochel
 * Shabbat Morning Service @ Amphitheater
 * Lunch Reception @ Chadar Ochel
-* Swimming @ Swimming Pool
+* Free time and/or Swimming @ Swimming Pool
 * Teen Surprise @ Playground
 * Dinner @ Chadar Ochel
 * Party! @ Beit Ha'am
