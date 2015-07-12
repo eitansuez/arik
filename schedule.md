@@ -5,7 +5,9 @@ permalink: /schedule/
 weight: 4
 ---
 
-Please refer to this [camp map](/camp_map.pdf) for the locations of the facilities cited on the schedule below.
+Please arrive Friday at 4pm in time to check in, change, and attend Friday night services.
+
+The following is a preliminary schedule;  please check back closer to the event date for updates.  For the locations of the facilities cited on the schedule below, please refer to this [camp map](/camp_map.pdf).
 
 ## Friday, October 9
 

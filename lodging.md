@@ -5,11 +5,24 @@ permalink: /lodging/
 weight: 3
 ---
 
-Camp Young Judea has lodging facilities in the form of cabins and lodge rooms.
+Camp Young Judaea (CYJ) has lodging facilities in the form of cabins and lodge rooms.
 Your specific accommodation will be furnished upon arrival.
 
-If multi-family cabins and lodges aren't quite your thing, we hope you will check out our
-recommendations to nearby B&B's.  If you choose a B&B, reserve your space as soon as possible.
+Arik's friends will be staying together in (girl and boy-designated) cabins with designated counselors.
+
+
+If multi-family cabins and lodges aren't quite your thing, here are links to nearby accommodations:
+
+<ul>
+<li>
+<a href="http://texashillcountryreservations.com/" target="_blank">Texas Hill Country Cabin and Resort Rentals</a>
+</li>
+<li>
+<a href="http://www.visitwimberley.com/category/lodging/index.shtml" target="_blank">Visit Wimberley</a>
+</li>
+</ul>
+
+Also, hotels in Dripping Springs, SouthWest Austin or San Marcos are relatively nearby.  If you choose a B&B, reserve your space as soon as possible.
 
 If you'd like to contribute towards your lodging at CYJ, you are welcome to do so via paypal.
 
@@ -20,4 +33,10 @@ If you'd like to contribute towards your lodging at CYJ, you are welcome to do s
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+## Dining
+
+All dining food and snacks in the dining hall are prepared in the CYJ kosher-certified kitchen.
+ALL kosher laws within the Dining Hall (Chadar Ochel) are strictly enforced.
+However, friends and family are welcome to bring "kosher style" desserts and noshes to share
+in the Lodge hospitality room.  Anyone that has Grandma G's/Yetta's cookbook, please oblige!
 
