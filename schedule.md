@@ -9,6 +9,8 @@ Please arrive Friday at 4pm in time to check in, change, and attend Friday night
 
 The following is a preliminary schedule;  please check back closer to the event date for updates.  For the locations of the facilities cited on the schedule below, please refer to this [camp map](/camp_map.pdf).
 
+<img style="float: right; margin: 2em 0 1em 1em;" src="/pics/tennis.jpg" />
+
 ## Friday, October 9
 
 * Welcome @ Shalom Center

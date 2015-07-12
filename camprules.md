@@ -5,6 +5,9 @@ permalink: /camprules/
 weight: 6
 ---
 
+<img style="float: right; margin: 0 0 1em 1em;" src="/pics/guitar.jpg" />
+
+
 We want everyone to have a safe and fun weekend. For everyone’s safety,
 we would appreciate your cooperation with the following:
 

@@ -12,3 +12,10 @@ Please complete and sign the form and scan it back to Bar Twito [bar@cyjtexas.or
 If you prefer fax, here's CYJ's fax number:  713.728.5061
 
 Thanks for your cooperation and assistance.
+
+
+----
+
+<div style="text-align: center;">
+<img src="/pics/run.jpg" />
+</div>

@@ -5,6 +5,8 @@ permalink: /lodging/
 weight: 3
 ---
 
+<img style="float: right; margin: 0 0 1em 1em;" src="/pics/hat.jpg" />
+
 Camp Young Judaea (CYJ) has lodging facilities in the form of cabins and lodge rooms.
 Your specific accommodation will be furnished upon arrival.
 
@@ -40,3 +42,10 @@ ALL kosher laws within the Dining Hall (Chadar Ochel) are strictly enforced.
 However, friends and family are welcome to bring "kosher style" desserts and noshes to share
 in the Lodge hospitality room.  Anyone that has Grandma G's/Yetta's cookbook, please oblige!
 
+
+
+----
+
+<div style="text-align: center;">
+<img src="/pics/pose.jpg" />
+</div>

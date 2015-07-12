@@ -5,10 +5,11 @@ permalink: /pack/
 weight: 5
 ---
 
+<img style="float: right; margin: 0 0 1em 1em;" src="/pics/sibl.jpg" />
+
 First and foremost we want all of our guests to be COMFORTABLE!
 So, NO jackets or ties. Comfortable shoes are a MUST in order to enjoy the weekend to the fullest.
 There is uneven terrain throughout the camp and we want everyone to be safe and sure-footed :-)
-
 
 ## Friday night
 
