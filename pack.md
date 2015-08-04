@@ -2,7 +2,7 @@
 layout: page
 title: What to Pack
 permalink: /pack/
-weight: 5
+weight: 6
 ---
 
 <img style="float: right; margin: 0 0 1em 1em;" src="/pics/sibl.jpg" />

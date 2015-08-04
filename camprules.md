@@ -2,7 +2,7 @@
 layout: page
 title: Camp Rules
 permalink: /camprules/
-weight: 6
+weight: 7
 ---
 
 <img style="float: right; margin: 0 0 1em 1em;" src="/pics/guitar.jpg" />

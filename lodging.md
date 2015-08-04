@@ -2,7 +2,7 @@
 layout: page
 title: Lodging
 permalink: /lodging/
-weight: 3
+weight: 4
 ---
 
 <img style="float: right; margin: 0 0 1em 1em;" src="/pics/hat.jpg" />

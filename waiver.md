@@ -2,7 +2,7 @@
 layout: page
 title: Teen Waiver
 permalink: /waiver/
-weight: 7
+weight: 8
 ---
 
 Here is a [liability waiver](/release_form.pdf) (pdf) that CYJ requires of the kids who attend functions.

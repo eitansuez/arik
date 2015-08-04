@@ -2,7 +2,7 @@
 layout: page
 title: Schedule
 permalink: /schedule/
-weight: 4
+weight: 5
 ---
 
 Please arrive Friday at 4pm in time to check in, change, and attend Friday night services.
