@@ -18,14 +18,14 @@ The following is a preliminary schedule;  please check back closer to the event 
 * 6:30 PM - Kabalat Shabbat Service @ Amphitheater
 * 7:15 PM - Dinner @ Chadar Ochel
 * 8:30 PM - Teen Icebreakers @ Pavilion
-* 9:15 PM - Campfire & Songs @ Campfire
+* 9:00 PM - Campfire & Songs @ Campfire
 
 ## Saturday, October 10
 
 *  8:00 AM - Breakfast @ Chadar Ochel
 * 10:00 AM - Shabbat Morning Service @ Amphitheater
 * 12:30 PM - Lunch Reception @ Chadar Ochel
-*  2:00 PM - Teen Maccabiah Games @ Playground
+*  2:00 PM - Teen Surprise! @ Playground
 *  2:00 PM - Swimming Pool Open for Families & Free time
 *  4:00 PM - Archery for Families
 *  4:00 PM - Teen Pool Time
@@ -33,8 +33,8 @@ The following is a preliminary schedule;  please check back closer to the event 
 *  6:00 PM - Change & Get Ready for Party
 *  7:00 PM - Appetizers
 *  7:30 PM - Dinner @ Chadar Ochel
-*  8:15 PM - Party! @ Beit Ha'am
-*  9:15 PM - Havdallah
+*  8:15 PM - Havdallah
+*  8:30 PM - Party! Hawaiian Theme (bring hawaiian attire) @ Beit Ha'am
 
 ## Sunday, October 11
 
