@@ -13,27 +13,33 @@ The following is a preliminary schedule;  please check back closer to the event 
 
 ## Friday, October 9
 
-* Welcome @ Shalom Center
-* Teen Orientation @ Shalom Center
-* Kabalat Shabbat Service @ Amphitheater
-* Dinner @ Chadar Ochel
-* Teen Oneg @ Basketball Pavillion
-* Campfire & Songs @ Campfire
+* 4:00 PM - Welcome @ Shalom Center
+* 6:00 PM - Teen Orientation @ Shalom Center
+* 6:30 PM - Kabalat Shabbat Service @ Amphitheater
+* 7:15 PM - Dinner @ Chadar Ochel
+* 8:30 PM - Teen Icebreakers @ Pavilion
+* 9:15 PM - Campfire & Songs @ Campfire
 
 ## Saturday, October 10
 
-* Breakfast @ Chadar Ochel
-* Shabbat Morning Service @ Amphitheater
-* Lunch Reception @ Chadar Ochel
-* Free time and/or Swimming
-* Teen Surprise @ Playground
-* Dinner @ Chadar Ochel
-* Party! @ Beit Ha'am
+*  8:00 AM - Breakfast @ Chadar Ochel
+* 10:00 AM - Shabbat Morning Service @ Amphitheater
+* 12:30 PM - Lunch Reception @ Chadar Ochel
+*  2:00 PM - Teen Maccabiah Games @ Playground
+*  2:00 PM - Swimming Pool Open for Families & Free time
+*  4:00 PM - Archery for Families
+*  4:00 PM - Teen Pool Time
+*  5:00 PM - Archery open for Teens
+*  6:00 PM - Change & Get Ready for Party
+*  7:00 PM - Appetizers
+*  7:30 PM - Dinner @ Chadar Ochel
+*  8:15 PM - Party! @ Beit Ha'am
+*  9:15 PM - Havdallah
 
 ## Sunday, October 11
 
-* Breakfast @ Chadar Ochel
-* Free Time @ Playground
-* Farewell @ Shalom Center
+*  9:00 AM - Breakfast @ Chadar Ochel
+*  Free Time @ Playground
+* 10:30 AM - Farewell
 
 
