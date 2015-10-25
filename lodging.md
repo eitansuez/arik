@@ -10,7 +10,7 @@ weight: 4
 Camp Young Judaea (CYJ) has lodging facilities in the form of cabins and lodge rooms.
 Your specific accommodation will be furnished upon arrival.
 
-Arik's friends will be staying together in (girl and boy-designated) cabins with designated counselors.
+Arik's friends will be staying together in (girl- and boy-designated) cabins with designated counselors.
 
 
 If multi-family cabins and lodges aren't quite your thing, here are links to nearby accommodations:
