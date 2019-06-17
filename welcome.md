@@ -6,7 +6,7 @@ weight: 1
 ---
 
 
-<img style="float: right; margin: 0 0 1em 1em; " src="/arik_cropped.jpeg" />
+<img style="float: right; margin: 0 0 1em 1em; " src="{{site.url}}/arik_cropped.jpeg" />
 
 Hello and welcome to my Bar Mitzvah website.
 
@@ -16,7 +16,7 @@ I'm so excited for you to be a part of my coming of age. Camp Young Judaea has b
 
 ----
 
-<img style="float: left; margin: 0 1em 1em 0;" src="/pics/fam.jpg" />
+<img style="float: left; margin: 0 1em 1em 0;" src="{{site.url}}/pics/fam.jpg" />
 
 Please don't hesitate to contact us by email or phone with any questions or requests.
 

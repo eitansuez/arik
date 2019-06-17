@@ -21,6 +21,6 @@ Arik's Bar Mitzvah will take place at <a href="http://www.cyjtexas.org/" target=
 ----
 
 <div style="text-align: center">
-  <img src="/pics/caesar.jpg" />
+  <img src="{{site.url}}/pics/caesar.jpg" />
 </div>
 
