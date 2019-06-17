@@ -5,7 +5,7 @@ permalink: /pack/
 weight: 6
 ---
 
-<img style="float: right; margin: 0 0 1em 1em;" src="{{site.url}}/pics/sibl.jpg" />
+<img style="float: right; margin: 0 0 1em 1em;" src="{{site.baseurl}}/pics/sibl.jpg" />
 
 First and foremost we want all of our guests to be COMFORTABLE!
 So, NO jackets or ties. Comfortable shoes are a MUST in order to enjoy the weekend to the fullest.

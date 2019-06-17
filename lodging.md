@@ -5,7 +5,7 @@ permalink: /lodging/
 weight: 4
 ---
 
-<img style="float: right; margin: 0 0 1em 1em;" src="pics/hat.jpg" />
+<img style="float: right; margin: 0 0 1em 1em;" src="{{site.baseurl}}/pics/hat.jpg" />
 
 Camp Young Judaea (CYJ) has lodging facilities in the form of cabins and lodge rooms.
 Your specific accommodation will be furnished upon arrival.
@@ -49,5 +49,5 @@ in the Lodge hospitality room.  Anyone that has Grandma G's/Yetta's cookbook, pl
 ----
 
 <div style="text-align: center;">
-<img src="{{site.url}}/pics/pose.jpg" />
+<img src="{{site.baseurl}}/pics/pose.jpg" />
 </div>
