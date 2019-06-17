@@ -3,7 +3,7 @@ title: Arik's Bar Mitzvah!
 email: eitan.suez@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Get ready for Arik's Bar Mitzvah!
-baseurl: "/arik/" # the subpath of your site, e.g. /blog/
+baseurl: "/arik" # the subpath of your site, e.g. /blog/
 url: "http://eitansuez.github.io"
 twitter_username: eitan_suez
 github_username:  eitansuez
