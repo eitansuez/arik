@@ -10,3 +10,8 @@ github_username:  eitansuez
 
 # Build settings
 markdown: kramdown
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap

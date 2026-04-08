@@ -1,2 +1,8 @@
 source 'https://rubygems.org'
-gem 'github-pages'
+
+gem 'jekyll', '~> 4.4'
+
+gem 'jekyll-feed'
+gem 'jekyll-seo-tag'
+gem 'jekyll-sitemap'
+
